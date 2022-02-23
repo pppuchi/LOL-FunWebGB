@@ -20,9 +20,9 @@ problems:
 4.Some champs' allytips and enemytips are missing, I filled in "Waiting for update".
 
 You may want to know:
-1.I used notepad to edit the website file.
+1.When i was learning website programming, i used dreamweaver and visual studio. But neither of them is in my new pc so i just used notepad to edit the website file.
 2.From having the idea and website finished, it took me a whole afternoon.
 3.Hope Riot can work with font awesome to make a unique logo, could be either the fist or the map of LOL.
 
-thanks to html5up for the website template.
+thanks to html5up for the free website template.
 thank Alex The Analyst for showing me how to deploy a website on github for free.
